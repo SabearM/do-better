@@ -6,3 +6,9 @@ I have watched a few tutorials that have been helpful, and I can follow and writ
 I am using PC with windows 10.
 
 Help World!
+
+P.S.
+
+So I guess what I want to know is... Is there a new tutorial out there that can help me accomplish my goal?
+Or if I started one on the Github that I can finish it here.
+As you may have guessed by now I have no coding knowledge and apparantly very little or no coding talent either.
